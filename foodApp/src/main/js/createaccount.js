@@ -1,3 +1,10 @@
+/**
+ * File: createaccount.js
+ * Purpose: This view allows the user to create an account if they don't have one
+ *          at sign in.
+ * @AUTHOR: Ryan Kennedy
+ * Course: CS 2212
+ */
 import React from 'react';
 import {Link} from 'react-router'
 

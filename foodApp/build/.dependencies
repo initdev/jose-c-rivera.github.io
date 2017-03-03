@@ -1,4 +1,7 @@
 dependencies:
+- file:/home/jose/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar
+- file:/home/jose/.gradle/caches/modules-2/files-2.1/org.scribe/scribe/1.3.2/c3fa7fda528eeec5418159f1ef0a482506285cbf/scribe-1.3.2.jar
+- file:/home/jose/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.60/98b47d6af7b1894e387bc806a41d810f159d66ef/jcommander-1.60.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mongodb/6.0.7/74733bb1d1656535f8dd29f5126c1ac4fef653b3/mongodb-6.0.7.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails/gorm-mongodb-spring-boot/6.0.7.RELEASE/89ad9fc2d1cedc11978e3d48d1216cae64234648/gorm-mongodb-spring-boot-6.0.7.RELEASE.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.4.4.RELEASE/64f090a1c417fa559b1041daa3c0a9ded611be7f/spring-boot-starter-logging-1.4.4.RELEASE.jar
@@ -18,6 +21,7 @@ dependencies:
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails.plugins/geb/1.0.2/45b092c0ab8c49eee7be94591566a22f9aedd846/geb-1.0.2.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-htmlunit-driver/2.47.1/e4a31a8f8c8a36074a506449c1b476af86de4a58/selenium-htmlunit-driver-2.47.1.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.18/ec30f76601f7010abbc09cc8ec401cb183916371/htmlunit-2.18.jar
+- file:/home/jose/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-web/6.0.7.RELEASE/d03181f744bc10b50cfddad6d05b8b97b9089cba/grails-datastore-web-6.0.7.RELEASE.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-simple/6.0.7.RELEASE/180567f5fea5bb605c1b402fd9b4648948d43f98/grails-datastore-simple-6.0.7.RELEASE.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.0.7.RELEASE/47480576266970cabd2cb8f62c38647cdc89a25c/grails-datastore-gorm-support-6.0.7.RELEASE.jar
@@ -84,7 +88,6 @@ dependencies:
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar
-- file:/home/jose/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.17/4316d68f449d42f69faf4ee255aa31b03e4f7dd5/htmlunit-core-js-2.17.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar
 - file:/home/jose/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.22/4f54af68ecb345f2453fb6884672ad08414154e3/nekohtml-1.9.22.jar

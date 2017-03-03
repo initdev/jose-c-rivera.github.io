@@ -1,5 +1,9 @@
 /**
- * Created by Fate on 2/28/2017.
+ * File: signin.js
+ * Purpose: First view that allows the user to Log-In to our application with their
+ *          stored credentials, or create a new account if they don't have one
+ * @AUTHOR: Ryan Kennedy
+ * Course: CS 2212
  */
 import React from 'react';
 import { Link } from 'react-router'

@@ -1,7 +1,15 @@
+/**
+ * File: index.js
+ * Purpose: This JS file imports all the react components,
+ *          and handles the navigation between all our different views
+ * @AUTHOR: Ryan Kennedy
+ * Course: CS 2212
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 import { CreateAccount } from './createaccount'
+import { GetProfileData } from './createprofile'
 import { Menus } from './menu'
 import { DiscoverApp } from './discover'
 import { northAmerica } from './northAmerica'
@@ -36,6 +44,7 @@ ReactDOM.render((
         <Route path="/" component={UserSignIn}/>
         <Route path="/menu" component={Menus}/>
             <Route path="/createaccount" component={CreateAccount} />
+            <Route path="/createprofile" component={ GetProfileData }/>
             <Route path="/discover" component={DiscoverApp}/>
             <Route path ="/setting" component={SettingApp}/>
             <Route path="/planner" component={planner}/>

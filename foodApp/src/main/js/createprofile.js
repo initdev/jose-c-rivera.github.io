@@ -1,3 +1,10 @@
+/**
+ * File: createprofile.js
+ * Purpose: After account creation the users will be
+ *          will be taken to this view to create a profile.
+ * @AUTHOR: Ryan Kennedy
+ * Course: CS 2212
+ */
 import React from 'react';
 import Select from 'react-select';
 import { Link, browserHistory } from 'react-router'

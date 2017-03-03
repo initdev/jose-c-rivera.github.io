@@ -1,5 +1,8 @@
 /**
- * Created by jose on 25/02/17.
+ * File: asiaME.js
+ * Purpose: Cuisine map for the Asian and Middle Eastern region
+ * @AUTHOR: Jose Rivera
+ * Course: CS 2212
  */
 import React, {Component} from 'react'
 import {Link} from 'react-router'

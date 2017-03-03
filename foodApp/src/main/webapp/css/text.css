@@ -170,6 +170,11 @@ head {
 }
 /*------------------------------------------------------------CONTINENT SELECT BUTTONS-------------------------------------------------------------------------------------*/
 #nAmerica {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/north_america.png) no-repeat;
+    background-size: contain;
     display: block;
     height: 280px;
     width: 270px;
@@ -180,6 +185,8 @@ head {
 }
 
 #nAmerica:hover {
+    background: url(../img/north_america_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -187,6 +194,11 @@ head {
 }
 
 #sAmerica {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/south_america.png) no-repeat;
+    background-size: contain;
     height: 280px;
     width: 270px;
     position:absolute;
@@ -196,6 +208,8 @@ head {
 }
 
 #sAmerica:hover {
+    background: url(../img/south_america_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -203,6 +217,11 @@ head {
 }
 
 #Europe {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/europe.png) no-repeat;
+    background-size: contain;
     height: 280px;
     width: 270px;
     position:absolute;
@@ -212,6 +231,8 @@ head {
 }
 
 #Europe:hover {
+    background: url(../img/europe_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -219,6 +240,11 @@ head {
 }
 
 #AsiaME {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/asia.png) no-repeat;
+    background-size: contain;
     height: 280px;
     width: 270px;
     position:absolute;
@@ -228,6 +254,8 @@ head {
 }
 
 #AsiaME:hover {
+    background: url(../img/asia_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -235,6 +263,11 @@ head {
 }
 
 #Africa {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/africa.png) no-repeat;
+    background-size: contain;
     height: 280px;
     width: 270px;
     position:absolute;
@@ -244,6 +277,8 @@ head {
 }
 
 #Africa:hover {
+    background: url(../img/africa_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -251,6 +286,11 @@ head {
 }
 
 #Australia {
+    outline:0;
+    padding: 0;
+    border: none;
+    background: url(../img/oceania.png) no-repeat;
+    background-size: contain;
     height: 280px;
     width: 270px;
     position:absolute;
@@ -260,6 +300,8 @@ head {
 }
 
 #Australia:hover {
+    background: url(../img/oceania_hover.png) no-repeat;
+    background-size: contain;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);

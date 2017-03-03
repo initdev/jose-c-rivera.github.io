@@ -1,3 +1,9 @@
+/**
+ * File: editpic.js
+     * Purpose: Allows the user to upload/change their profile picture
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
+ */
 import React from 'react'
 import {Link} from 'react-router'
 

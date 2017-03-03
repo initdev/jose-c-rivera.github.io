@@ -1,3 +1,10 @@
+/**
+ * File: editlocation.js
+ * Purpose: Allows the user to modify the saved location that was inputted
+ *          during account creation
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
+ */
 import React from 'react'
 import {Link} from 'react-router'
 

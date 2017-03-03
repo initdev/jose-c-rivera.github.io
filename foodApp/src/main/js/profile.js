@@ -1,5 +1,8 @@
 /**
- * Created by Fate on 2/28/2017.
+ * File: profile.js
+ * Purpose: Renders a profile view to the user
+ * @AUTHOR: Ryan Kennedy
+ * Course: CS 2212
  */
 import React from 'react';
 import { Link } from 'react-router'

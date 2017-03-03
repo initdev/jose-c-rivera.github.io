@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{jquery}" />
+    <file url="file://$PROJECT_DIR$" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/grails-app" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/src/main" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/src/test" libraries="{Node.js Core}" />
+    <file url="PROJECT" libraries="{jquery, node-DefinitelyTyped}" />
     <includedPredefinedLibrary name="ECMAScript 6" />
   </component>
 </project>

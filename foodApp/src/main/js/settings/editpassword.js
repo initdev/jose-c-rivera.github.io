@@ -1,3 +1,9 @@
+/**
+ * File: editpassword.js
+ * Purpose: Allows the user to change their password
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
+ */
 import React from 'react'
 import {Link} from 'react-router'
 

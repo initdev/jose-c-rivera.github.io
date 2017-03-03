@@ -1,5 +1,8 @@
 /**
- * Created by elaine on 26/02/17.
+ * File: managefriends.js
+ * Purpose: Allows the user to add/remove friends
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
  */
 import React from 'react'
 import {Link} from 'react-router'

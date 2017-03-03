@@ -1,3 +1,10 @@
+/**
+ * File: discover.js
+ * Purpose: Allows the user to pick from a continental map,
+ *          then they will be presented a map to choose cuisine from
+ * @AUTHOR: Jose Rivera
+ * Course: CS 2212
+ */
 import React from 'react'
 import {Link} from 'react-router'
 

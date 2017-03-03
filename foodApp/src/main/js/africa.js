@@ -1,3 +1,9 @@
+/**
+ * File: africa.js
+ * Purpose: Cuisine map for the African region
+ * @AUTHOR: Jose Rivera
+ * Course: CS 2212
+ */
 import React, {Component} from 'react'
 import {Link} from 'react-router'
 import ReactDOM from 'react-dom';

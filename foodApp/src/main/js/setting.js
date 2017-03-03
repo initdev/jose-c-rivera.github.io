@@ -1,5 +1,9 @@
 /**
- * Created by elaine on 25/02/17.
+ * File: setting.js
+ * Purpose: Links the user to different settingss that allows the user
+ *          to change profile values
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
  */
 import React from 'react'
 import {Link} from 'react-router'

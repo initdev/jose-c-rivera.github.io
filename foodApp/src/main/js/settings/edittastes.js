@@ -1,3 +1,9 @@
+/**
+ * File: edittastes.js
+ * Purpose: Allows the user to edit their tastes
+ * @AUTHOR: Yixin Li
+ * Course: CS 2212
+ */
 import React from 'react'
 import {Link} from 'react-router'
 

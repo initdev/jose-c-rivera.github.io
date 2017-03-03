@@ -1,5 +1,8 @@
 /**
- * Created by jose on 25/02/17.
+ * File: australia.js
+ * Purpose: Cuisine map for the Oceania region
+ * @AUTHOR: Jose Rivera
+ * Course: CS 2212
  */
 import React, { Component } from 'react'
 import {Link} from 'react-router'

@@ -1,5 +1,9 @@
 /**
- * Created by jose on 02/03/17.
+ * File: planner.js
+ * Purpose: Feature of our application that allows the user to plan
+ *          an outing by adding friends to a party
+ * @AUTHOR: Jose Rivera
+ * Course: CS 2212
  */
 import React from 'react'
 import {Link} from 'react-router'
