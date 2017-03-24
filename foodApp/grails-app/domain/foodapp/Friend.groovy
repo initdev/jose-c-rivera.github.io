@@ -1,7 +1,6 @@
 package foodapp
 
-class FriendList {
-    List friendList
+class Friend {
 
     static constraints = {
     }

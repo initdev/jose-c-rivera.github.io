@@ -1,4 +1,6 @@
 package foodapp
+
+import com.mongodb.util.JSON
 import grails.rest.RestfulController
 
 class CreateProfileController extends RestfulController{
@@ -18,6 +20,7 @@ class CreateProfileController extends RestfulController{
         def userLocation = params.location
         def userNumber = params.phoneNumber
         def userTastes = params.value
+        System.out.print(userTastes)
         // We would search for the account in the DB here
         //def account = UserAccount.find{userName == userName}
         def account = UserAccount.find{userName == user}
@@ -25,6 +28,7 @@ class CreateProfileController extends RestfulController{
             def profile = account.getProfile()
             profile.info = new ProfileInfo(email: emailAddress, phoneNumber: userNumber,
                             location: userLocation, tastes: userTastes)
+            profile.save(flush: true, failOnError: true)
             response.status = 200
         }
         else{

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FoodDB/FoodDB.iml" filepath="$PROJECT_DIR$/FoodDB/FoodDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodApp.iml" filepath="$PROJECT_DIR$/.idea/modules/foodApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/foodApp_main.iml" group="foodApp" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/foodApp_test.iml" group="foodApp" />

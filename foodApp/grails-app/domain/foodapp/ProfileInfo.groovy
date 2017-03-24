@@ -6,6 +6,7 @@ class ProfileInfo {
     String phoneNumber
     String location
     String tastes = []
+    FriendList friends = []
 
     static belongsTo = [profile : Profile]
 

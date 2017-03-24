@@ -6,6 +6,7 @@
  */
 import React from 'react'
 import {Link} from 'react-router'
+import accountStore from '../stores/accountStore'
 
 let Editphone = React.createClass({
 
@@ -21,8 +22,15 @@ let Editphone = React.createClass({
       },
 
       handleSubmit(e) {
-        alert('Your phone number has been updated: ' + this.state.phone);
         e.preventDefault();
+        alert('Your phone number has been updated: ' + this.state.phone);
+        let userName = accountStore.getUser();
+        let newPhone = this.state.phone
+        fetch('http://localhost:8080/manageAccount/updatePhone?' + 'userName=' + userName + '&newPhone='
+            + newPhone, {
+            method: 'POST',
+            headers: {}
+        });
       },
 
    render(){

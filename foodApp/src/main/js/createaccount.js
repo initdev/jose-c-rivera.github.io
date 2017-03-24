@@ -90,19 +90,19 @@ let CreateAcc = React.createClass({
        return (
 
             <div id="CreateAccount">
-                <form onSubmit={this.handleSubmit}>
-                    <label>UserName</label>
-                    <div>
-                        <input type = "text"
-                               placeholder="Username"
-                               ref="username"
-                               onChange = {this.handleUserChange} />
-                    </div>
-                    <label>Password</label>
-                    <div>
-                        <input type = "password"
-                               placeholder="Password"
-                               onChange = {this.handlePasswordChange} />
+                        <form onSubmit={this.handleSubmit}>
+                            <label>UserName</label>
+                            <div>
+                                <input type = "text"
+                                       placeholder="Username"
+                                       ref="username"
+                                       onChange = {this.handleUserChange} />
+                            </div>
+                            <label>Password</label>
+                            <div>
+                                <input type = "password"
+                                       placeholder="Password"
+                                       onChange = {this.handlePasswordChange} />
                     </div>
                     <label>Confirm your password</label>
                     <div>

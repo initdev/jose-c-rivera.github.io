@@ -7,6 +7,7 @@
  */
 import React from 'react'
 import {Link} from 'react-router'
+import accountStore from '../stores/accountStore'
 
 let Editlocation = React.createClass({
 
@@ -22,8 +23,15 @@ let Editlocation = React.createClass({
       },
 
       handleSubmit(e) {
-        alert('Your location has been updated: ' + this.state.location);
-        e.preventDefault();
+          e.preventDefault();
+          alert('Your location has been updated: ' + this.state.location);
+          let userName = accountStore.getUser();
+          let newLocation = this.state.location
+          fetch('http://localhost:8080/manageAccount/updateLocation?' + 'userName=' + userName + '&newLocation='
+              + newLocation, {
+              method: 'POST',
+              headers: {}
+          });
       },
 
    render(){

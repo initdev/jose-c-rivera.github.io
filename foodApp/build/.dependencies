@@ -15,6 +15,7 @@ dependencies:
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.0.7/9fc1ba428344cadb54e25254305f9b740b49df3a/hibernate5-6.0.7.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.1.2.Final/2fb20acec888b23814d6e268e70902f417793e43/hibernate-core-5.1.2.Final.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-ehcache/5.1.2.Final/7157b9e943d101ba852d0868169c89c53ae1bb3a/hibernate-ehcache-5.1.2.Final.jar
+- file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails.plugins/views-json/1.2.0/dc0124a41d82d9e167b0dc20b5819f44385b0788/views-json-1.2.0.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-grails/2.11.6/6e61dee04961f9063561752ec27cf556e2924076/asset-pipeline-grails-2.11.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.193/369b51e2090c4e6714d9d5e42010b6330c2cea26/h2-1.4.193.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.2.6/4f441539c9a2477fea544da29ae8398709524c3/grails-plugin-testing-3.2.6.jar
@@ -70,6 +71,7 @@ dependencies:
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.0.1.Final/71e1cff3fcb20d3b3af4f3363c3ddb24d33c6879/hibernate-commons-annotations-5.0.1.Final.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache/2.10.3/cf74f9a4a049f181833b147a1d9aa62159c9d01d/ehcache-2.10.3.jar
+- file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/views-core/1.2.0/51194793134783fb3dcf4069868424ed9e342021/views-core-1.2.0.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7R4/e982f2136574b9a423186fbaeaaa98dc3e5a5288/rhino-1.7R4.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-core/2.11.6/9886326a555d80cda6fafe691faf4ded038310b6/asset-pipeline-core-2.11.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/cglib/cglib/2.2.2/a47a971686474124562bdd4a7ccbd8ac8c3e8b11/cglib-2.2.2.jar
@@ -141,6 +143,7 @@ dependencies:
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/fb18766b576aa6632bcfe9a20a023cbd52bf9769/hibernate-validator-5.2.4.Final.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.6.RELEASE/6b7855cfbc636dff3d902f4f335fc69e7309d55c/spring-jdbc-4.3.6.RELEASE.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar
+- file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.6/696607838c2039574aa73649f7ff3d0ecfc7cae8/grails-web-url-mappings-3.2.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/com.google.javascript/closure-compiler-unshaded/v20160713/7df7b683e16c93f65361a15356283599ba012c78/closure-compiler-unshaded-v20160713.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/asm/asm/3.3.1/1d5f20b4ea675e6fab6ab79f1cd60ec268ddc015/asm-3.3.1.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.4.4.RELEASE/2a3a2bc68766271db7c010b58a74e98df0654395/spring-boot-test-1.4.4.RELEASE.jar
@@ -187,7 +190,6 @@ dependencies:
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.9/db28774f477f07220eac18d5ec9c4e01f48589d7/aspectjweaver-1.8.9.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.2.6/a6fddd295af95ed3325fb62608c1eb49575e535e/grails-web-gsp-3.2.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.6/c4caf562fb5a5ec8cded6dea5b9738e9b27dc046/grails-web-databinding-3.2.6.jar
-- file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.6/696607838c2039574aa73649f7ff3d0ecfc7cae8/grails-web-url-mappings-3.2.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-jsp/3.2.6/b9268454a9491325025ced69886da8c20bab1649/grails-web-jsp-3.2.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-mvc/3.2.6/438eb0d2bf0fe84358f4fcc0bb9d5306c98f6dea/grails-web-mvc-3.2.6.jar
 - file:/C:/Users/Fate/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-sitemesh/3.2.6/a6cf89f72d772b2e8b51bdc1abf20ea4f1926828/grails-web-sitemesh-3.2.6.jar

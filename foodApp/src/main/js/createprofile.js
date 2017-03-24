@@ -70,7 +70,7 @@ var Profile = React.createClass({
 
     handleSelectChange (value) {
         console.log('You\'ve selected:', value);
-        this.setState({ value });
+        this.setState( {value } );
     },
 
 

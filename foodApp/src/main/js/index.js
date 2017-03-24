@@ -10,7 +10,7 @@ import ReactDOM from 'react-dom';
 import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 import { CreateAccount } from './createaccount'
 import { GetProfileData } from './createprofile'
-import { Profile } from './profile'
+import { ProfileApp } from './profile'
 import { Menus } from './menu'
 import { DiscoverApp } from './discover'
 import { northAmerica } from './continents/northAmerica'
@@ -48,7 +48,7 @@ ReactDOM.render((
         <Route path="/Menu" component={Menus}/>
         <Route path="/CreateAccount" component={CreateAccount} />
             <Route path="/CreateProfile" component={GetProfileData} />
-            <Route path="/profile" component={Profile}/>
+            <Route path="/profile" component={ProfileApp}/>
         <Route path="/Discover" component={DiscoverApp}/>
         <Route path ="/Setting" component={SettingApp}/>
         <Route path="/Planner" component={planner}/>
